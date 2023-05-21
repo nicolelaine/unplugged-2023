@@ -87,6 +87,362 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   *  {
+    outline: 1px solid red;
+   }
+
+    /*----------------------------*Base Header and Footer Sytles*/
+
+
+   header, footer {
+
+   }
+
+
+  /*----------------------------*Header Sytles*/
+
+  header {
+    display: flex;
+    justify-content: center;
+
+  }
+
+
+  header .content-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+  }
+
+  header figure {
+
+  }
+
+  .header-divider {
+
+  }
+
+  header nav {
+
+  }
+
+
+  header nav ul {
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+  header nav ul li {
+   
+  }
+
+  header nav ul li a {
+   
+  }
+
+      /*----------------------------*Footer Style*/
+
+
+
+  footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+ 
+
+  }
+
+  footer .content-wrapper {
+
+  }
+
+  footer .contact {
+
+  }
+
+  footer h4 {
+
+  }
+
+  footer address {
+
+  }
+
+  footer address p {
+
+  }
+
+  .social {
+
+  }
+
+  .social h4 {
+
+  }
+
+  footer .social p {
+    
+  }
+
+  footer .social-icons {
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .social-icons p {
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .social-icons p a {
+
+  }
+
+  .copyright {
+
+  }
+
+  .copyright p {
+
+  }
+
+
+    /*----------------------------*Mobile Styles - Homepage*/
+
+    main {
+
+    }
+
+    .hero-area {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .hero-area .content-wrapper{
+
+    }
+
+   .hero-area h1 {
+
+    }
+
+    aside {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    aside .content-wrapper {
+
+    }
+
+   aside h3 {
+
+    }
+
+    aside p {
+
+    }
+
+    aside .form-description {
+
+    }
+
+    aside .form {
+
+    }
+
+    input {
+
+    }
+
+    .features {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .features .features-items {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-flow: row wrap;
+
+    }
+
+    article {
+
+    }
+
+    article .features-items h2 {
+
+    }
+
+   article .fontawesome-icon {
+
+    }
+
+    article .features-items-description {
+
+    }
+
+    article p {
+
+    }
+
+    .reviews {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .reviews .content-wrapper {
+
+    }
+
+    .reviews .content-wrapper h2 {
+
+    }
+
+    .reviews article {
+
+    }
+
+   . reviews h3 {
+
+    }
+
+    .reviews p {
+
+    }
+
+  
+
+        /*----------------------------*Mobile Styles - About Page*/
+
+
+    main .mission {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .mission .content-wrapper {
+
+    }
+
+    .mission h2 {
+
+    }
+
+    .mission-content {
+
+    }
+
+    .mission-content p {
+
+    }
+
+    .map {
+
+    }
+
+    .map figure {
+
+    }
+
+    .contact-section {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .contact-section .content-wrapper {
+
+    }
+
+    .contact-section h2 {
+
+    }
+
+    .contact-content {
+
+    }
+
+    .contact-content-left {
+
+    }
+
+    .contact-content-left h4 {
+      
+    }
+
+    .contact-content-left address {
+
+    }
+
+
+    .contact-content-left p {
+
+    }
+
+    .contact-content-right {
+
+    }
+
+    .contact-content-right h4 {
+      
+    }
+
+    .contact-content-right address {
+
+    }
+
+
+    .contact-content-right p {
+
+    }
+
+
+            /*----------------------------*Mobile Styles - FAQ Page*/
+
+    .faq {
+      display: flex;
+      justify-content: center;
+
+    }
+
+    .faq .content-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-flow: row wrap;
+
+    }
+
+    .faq .content-wrapper h2 {
+
+    }
+
+    .faq-content {
+
+    }
+
+    .faq-content h4 {
+
+    }
+
+    .faq-content p {
+
+    }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
