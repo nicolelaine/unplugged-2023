@@ -487,9 +487,10 @@ textarea {
 
     .faq .content-wrapper {
       display: flex;
-      justify-content: center;
+      justify-content: flex-start;
       align-items: center;
       flex-flow: row wrap;
+    
 
     }
 
@@ -498,6 +499,7 @@ textarea {
     }
 
     .faq-content {
+      margin: 50px 0;
 
     }
 
