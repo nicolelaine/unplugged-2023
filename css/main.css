@@ -524,6 +524,14 @@ textarea {
 
     }
 
+
+
+    /* Breakpoints*/
+
+    /* TABLETS */
+
+    
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -622,6 +630,30 @@ textarea {
   (min-resolution: 120dpi) {
   /* Style adjustments for high resolution devices */
 }
+
+
+
+@media only screen and (max-width: 768px) {
+      /*
+  header figure {
+    width: 40%;
+  }
+
+  header nav {
+    width: 60%;
+  }
+*/
+
+
+}
+
+/* DESKTOPS */
+
+@media only screen and (max-width: 1200px) {
+
+}
+
+
 
 /* ==========================================================================
    Print styles.
